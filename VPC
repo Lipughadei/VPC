@@ -1,0 +1,2 @@
+-> if you want to connect to your private subnet then you can achieve that with help of publica subnet 
+-> through pem file you can ssh use -> ssh -i <pemfile> private ip
